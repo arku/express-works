@@ -1,0 +1,15 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "A simple express app to serve static assets",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arun Kumar",
+  "license": "MIT"
+}
