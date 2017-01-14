@@ -13,7 +13,7 @@ This repository hosts my solutions for the [NodeSchool](https://nodeschool.io)'s
 
   [Solution](hello-world/)
   
-2. Static
+2. ### Static
 
   This exercise is about serving static assets like HTML files.
   There are many ways to do it, but we want you to apply static middleware to serve the file index.html.
@@ -37,3 +37,16 @@ This repository hosts my solutions for the [NodeSchool](https://nodeschool.io)'s
   ```
 
   [Solution](static/)
+
+3. ### Pug
+
+  Create an Express.js app with a home page rendered by the Pug template engine.
+
+  The home page should respond to `/home`.
+
+  The view should show the current date using `new Date.toDateString()`.
+
+  We use `toDateString()` to simply return the date in a human-readable format
+  without the time.
+
+  [Solution](pug/)

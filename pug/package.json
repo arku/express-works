@@ -1,0 +1,16 @@
+{
+  "name": "pug-intro",
+  "version": "1.0.0",
+  "description": "A simple express app to explore pug - templating engine",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Arun Kumar",
+  "license": "MIT"
+}
