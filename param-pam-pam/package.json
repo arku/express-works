@@ -1,0 +1,15 @@
+{
+  "name": "param-pam-pam",
+  "version": "1.0.0",
+  "description": "A simple express app to explore parsing URL parameters",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Arun Kumar",
+  "license": "MIT"
+}
