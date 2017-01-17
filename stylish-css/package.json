@@ -1,0 +1,16 @@
+{
+  "name": "stylish-css",
+  "version": "1.0.0",
+  "description": "A simple express to explore integrating with stylus middleware",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "stylus": "^0.54.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Arun Kumar",
+  "license": "MIT"
+}
